@@ -105,7 +105,48 @@
             </div>
           </div>
         </section>
-        <section class="reservation" id="reservation-link"></section>
+
+        <section class="reservation" id="reservation-link">
+          <h2 class="reservation__title">Book a table</h2>
+          <form class="reservation__form">
+            <fidelset class="form__fieldset">
+              <label for="name" class="form__label">Name*</label>
+              <input
+                class="form__input"
+                type="text"
+                id="name"
+                placeholder="Name Surname"
+              />
+
+              <label for="number" class="form__label">Number of guests*</label>
+              <input
+                class="form__input"
+                type="number"
+                id="number"
+                placeholder="1-8"
+              />
+
+              <label for="datetime" class="form__label">Date & time*</label>
+              <input class="form__input" type="datetime-local" id="datetime" />
+
+              <label for="email" class="form__label">Your email*</label>
+              <input
+                class="form__input"
+                type="email"
+                id="email"
+                placeholder="email@email.com"
+              />
+
+              <button type="button" class="form__button">Book a table</button>
+
+              <label class="form__checkbox">
+                <input type="checkbox" class="form__checkbox_invisible" />
+                <span class="form__checkbox_visible"> </span>
+                I agree with the terms of use
+              </label>
+            </fidelset>
+          </form>
+        </section>
         <section class="menu" id="menu-link"></section>
         <section class="about" id="about-link"></section>
       </main>
