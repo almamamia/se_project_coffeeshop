@@ -14,3 +14,4 @@ This is the second project of the Web Development program at Practicum. It was c
 ## Plan on improving the project
 
 Add your ideas here :)
+It will be cute if the logo on header has its words "Practicum coffee shop" rotate around infinitely.
