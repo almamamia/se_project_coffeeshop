@@ -41,7 +41,7 @@
   row-gap: 100px;
   margin-bottom: 100px;
 }
-
+/* 
 .card {
   width: 540px;
   flex-basis: 450px;
@@ -80,4 +80,4 @@
 .card__list-divider {
   flex-grow: 1;
   border-bottom: 1px solid #000;
-}
+} */
