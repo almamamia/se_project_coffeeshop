@@ -8,6 +8,7 @@
   background-position: center;
   background-size: cover;
   position: relative;
+  overflow: hidden;
 }
 
 .header__logo {
@@ -58,14 +59,12 @@
 }
 
 .header__footer {
-  width: 100%;
-
   position: absolute;
   left: 80px;
+  right: 80px;
   bottom: 40px;
   display: flex;
   justify-content: space-between;
-  align-items: flex-end;
 
   font-weight: 500;
   font-size: 16px;
@@ -74,7 +73,6 @@
 }
 
 .header__paragraph {
-  align-self: flex-end;
   margin: 0;
 }
 
@@ -83,5 +81,5 @@
 }
 
 .header__address {
-  margin-right: 80px;
+  align-self: flex-end;
 }
