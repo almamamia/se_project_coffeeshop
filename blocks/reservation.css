@@ -7,11 +7,6 @@
   background-size: cover;
 }
 
-.form {
-  display: flex;
-  justify-content: center;
-}
-
 .reservation__form {
   margin: 0;
 }
