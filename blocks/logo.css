@@ -1,2 +1,7 @@
-/* wasn't sure if i should move header__logo and footer__logo
-here but since those are not blocks named logo so i left this empty... */
+.logo {
+  position: absolute;
+  width: 125px;
+  height: 142px;
+  top: 30px;
+  left: 30px;
+}
