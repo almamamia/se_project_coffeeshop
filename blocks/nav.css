@@ -17,7 +17,7 @@
   font-weight: 500;
   font-style: normal;
   color: black;
-  transition: opacity 0.4s ease-in-out;
+  transition: color 0.4s ease-in-out;
 }
 
 .nav__link:hover {
