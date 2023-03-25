@@ -16,3 +16,4 @@ This is the second project of the Web Development program at Practicum. It was c
 Add your ideas here :)
 
 Thank you so much for such through feedback/notes! Appreciate tons!
+Thank you so much for the notes! :"")
